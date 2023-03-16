@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.ahsan.rop_stam_assignment">
+    <uses-permission android:name="android.permission.INTERNET" />
    <application
         android:label="rop_stam_assignment"
         android:name="${applicationName}"
